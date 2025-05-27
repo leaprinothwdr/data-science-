@@ -1,2 +1,2 @@
 # data-science-
-Kurs-Repo 
+Kurs-Repo für den **MCIT-BA-Kurs** Data Science UE
