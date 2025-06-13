@@ -1,4 +1,4 @@
-# data-science-
+# in-data-veritas
 Kurs-Repo für den **MCIT-BA-Kurs** Data Science UE
 
 Dieses Repo enthält alle Files zu diesem Kurs
